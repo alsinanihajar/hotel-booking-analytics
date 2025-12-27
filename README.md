@@ -66,7 +66,7 @@ The dashboard visualizes:
 - **Monthly booking trends** (Line Chart)
 - **Key KPIs**: Total Revenue, Total Bookings, Total Guests, Average Booking Value
 
-![Dashboard Screenshot](img/dashbordHotelBooking.PNG)
+[![Dashboard Screenshot](img/dashbordHotelBooking.PNG)](https://YOUR_SNOWFLAKE_DASHBOARD_LINK)
 
 ---
 
