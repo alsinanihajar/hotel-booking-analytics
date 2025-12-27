@@ -30,7 +30,7 @@ The project uses a **fully Snowflake-native pipeline**:
 4. **Gold Layer** – Aggregated, analytics-ready data.
 5. **Dashboard** – Visualization and KPIs.
 
-![Data Architecture](path_to_your_data_architecture_image.png)
+![Data Architecture](img/Hotel_Analytics.png)
 
 ---
 
@@ -52,7 +52,6 @@ The dataset includes hotel booking records with the following fields:
 - Currency (USD, INR, EUR)
 - Booking Status (Confirmed, No-show, Canceled)
 
-> The CSV file is included in the `data/` folder.
 
 ---
 
