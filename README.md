@@ -66,7 +66,7 @@ The dashboard visualizes:
 - **Monthly booking trends** (Line Chart)
 - **Key KPIs**: Total Revenue, Total Bookings, Total Guests, Average Booking Value
 
-![Dashboard Screenshot](path_to_your_dashboard_image.png)
+![Dashboard Screenshot](img/dashbordHotelBooking.PNG)
 
 ---
 
@@ -82,5 +82,14 @@ Highlights:
 
 ---
 
-## Project Structure
+## How to Run
+
+1. Import the CSV file into a Snowflake Stage.  
+2. Run SQL scripts for **Bronze → Silver → Gold** transformations.  
+3. Execute dashboard queries from `hotel_booking_dashboard.sql` to generate insights.  
+
+---
+
+
+
 
